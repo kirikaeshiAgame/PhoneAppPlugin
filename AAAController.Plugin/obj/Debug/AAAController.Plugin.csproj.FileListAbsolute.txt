@@ -1,0 +1,14 @@
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\obj\Debug\AAAController.Plugin.csproj.AssemblyReference.cache
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\obj\Debug\AAAController.Plugin.csproj.CoreCompileInputs.cache
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\AAAController.Plugin.dll
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\AAAController.Plugin.pdb
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\Newtonsoft.Json.dll
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\NLog.dll
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\PhoneApp.exe
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\Newtonsoft.Json.xml
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\NLog.xml
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\PhoneApp.pdb
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\bin\Debug\PhoneApp.exe.config
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\obj\Debug\AAAContr.55A85F88.Up2Date
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\obj\Debug\AAAController.Plugin.dll
+D:\Работа\TestTest\PhonePluginsApplication-master\AAAController.Plugin\obj\Debug\AAAController.Plugin.pdb
